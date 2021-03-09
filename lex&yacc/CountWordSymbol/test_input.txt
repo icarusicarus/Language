@@ -1,0 +1,1 @@
+You'd like to count the number of symbols in the document and that of words in the document.
